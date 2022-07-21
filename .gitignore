@@ -1,0 +1,11 @@
+CMakeFiles
+.idea
+.vs
+*vcxproj*
+bin
+*CMake*
+*.obj
+*.tlog
+*.log
+*.recipe
+*.spv

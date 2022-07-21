@@ -5,6 +5,7 @@
 #include "QueueFlags.h"
 #include "SwapChain.h"
 
+#include <stdexcept>
 class SwapChain;
 class Device {
     friend class Instance;
